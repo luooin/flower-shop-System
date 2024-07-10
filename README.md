@@ -1,5 +1,5 @@
 # flower-shop-System
-基于SpringBoot+Themleaf的网上花店系统(开源)
+基于SpringBoot+Thymeleaf的网上花店系统(开源)
 
 #### 介绍
 
