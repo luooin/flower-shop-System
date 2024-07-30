@@ -7,7 +7,7 @@
 
 **交流+Q：1902317191**
 
-**CSDN项目合集：http://t.csdnimg.cn/j7xXJ**
+**CSDN项目合集：http://t.csdnimg.cn/gKMVn**
 
 
 #### 安装教程
